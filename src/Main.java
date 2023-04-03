@@ -12,7 +12,7 @@ public class Main {
 
         x = readInteger(msg,0,tableau.length-1);
 */
-/*Allô! */
+/*Allô! Je change dans l'éditeur Web*/
         while (true){
             System.out.print("Entrez l'indice du tableau: ");
             x = sc.nextInt();
